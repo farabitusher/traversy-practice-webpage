@@ -1,0 +1,9 @@
+.news-latter{
+
+
+}
+@media(min-width:768px){
+    .news-latter{
+        width: 50%;
+    }
+}
